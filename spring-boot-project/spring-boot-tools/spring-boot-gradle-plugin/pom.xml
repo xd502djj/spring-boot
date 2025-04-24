@@ -52,7 +52,7 @@
 						<id>unpack-doc-resources</id>
 						<phase>generate-resources</phase>
 						<goals>
-							<goal>wget</goal>
+<!--							<goal>wget</goal>-->
 						</goals>
 						<configuration>
 							<url>${spring-doc-resources.url}</url>
