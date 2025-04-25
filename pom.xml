@@ -10,7 +10,7 @@
 	<name>Spring Boot Build</name>
 	<description>Spring Boot Build</description>
 	<properties>
-		<revision>2.2.5.SNAPSHOT</revision>
+		<revision>2.2.5-SNAPSHOT</revision>
 		<main.basedir>${basedir}</main.basedir>
 		<disable.checks>true</disable.checks>
 	</properties>
